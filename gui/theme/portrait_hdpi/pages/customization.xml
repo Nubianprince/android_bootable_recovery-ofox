@@ -760,7 +760,7 @@
 				<placement x="0" y="%row3_2_y%" w="%listbox_tz_width_2%" h="%lb_l1%"/>
 				<font resource="font5" spacing="%fileselector_spacing%" color="%text%" />
 				<data name="theme_font_tmp"/>
-				<listitem name="Choco Cooky">Chococooky</listitem>
+				<listitem name="Asleep">Asleep</listitem>
 			</listbox>
 			
 			<listbox>
@@ -809,7 +809,7 @@
 				<placement x="%col2_x%" y="%row3_2_y%" w="%listbox_tz_width_2%" h="%lb_l1%"/>
 				<font resource="font5" spacing="%fileselector_spacing%" color="%text%" />
 				<data name="theme_sec_font_tmp"/>
-				<listitem name="Choco Cooky">Chococooky</listitem>
+				<listitem name="Asleep">Asleep</listitem>
 			</listbox>
 			
 			<listbox>
